@@ -1,0 +1,7 @@
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe.config
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.pdb
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csprojAssemblyReference.cache
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csproj.CoreCompileInputs.cache
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.exe
+C:\Users\panda\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.pdb

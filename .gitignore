@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Lab01/v15/Server/sqlite3
+/.vs/Lab01/v15
+/HelloConsoleApp/bin/Debug
+/HelloConsoleApp/obj/Debug
