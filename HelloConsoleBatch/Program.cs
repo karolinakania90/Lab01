@@ -13,19 +13,15 @@ namespace HelloConsoleBatch
         {
             Console.WriteLine("Program na powitanie.");
             Console.Write("podaj imię: ");
-            string imie;
-            imie = Console.ReadLine();
+            string imie = args[0];
 
             Console.Write("podaj nazwisko: ");
-            string nazwisko;
-            nazwisko = Console.ReadLine();
+            string nazwisko = args[1];
 
             Console.WriteLine("Witaj" + imie + "" + nazwisko);
             Console.WriteLine("Witaj {0} {1}. Czy Pan/i {0} rzeczywiście nazywa się {1}?", imie, nazwisko);
 
-
-            Console.Write("Podaj wiek ");
-            int wiek = Convert.ToInt32(Console.ReadLine());
+            int wiek = Convert.ToInt32( args[2] );
 
             if (wiek < 67)
             {
