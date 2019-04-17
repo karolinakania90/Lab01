@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloConsoleVBDialog", "Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWinformsApp", "HelloWinformsApp\HelloWinformsApp.csproj", "{F67A7899-0660-48F8-9221-56262CC6BFF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWPFApp", "HelloWPFApp\HelloWPFApp.csproj", "{257ED4DD-FFE1-4D22-841A-CFE3BA2681C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F67A7899-0660-48F8-9221-56262CC6BFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F67A7899-0660-48F8-9221-56262CC6BFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F67A7899-0660-48F8-9221-56262CC6BFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257ED4DD-FFE1-4D22-841A-CFE3BA2681C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257ED4DD-FFE1-4D22-841A-CFE3BA2681C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257ED4DD-FFE1-4D22-841A-CFE3BA2681C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257ED4DD-FFE1-4D22-841A-CFE3BA2681C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
